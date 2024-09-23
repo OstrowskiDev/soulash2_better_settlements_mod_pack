@@ -1,0 +1,13 @@
+{
+	"name": "Better Settlements - Smelters",
+	"description": "Expands and improves vanilla smelter buildings",
+	"author": "Decados",
+	"game_required": "1.0.0",
+	"icon": "S.png",
+	"mods_required": [
+		"core_2"
+	],
+	"thumbnail": "thumbnail2.png",
+	"overwrite": true,
+	"version": "0.1.0"
+}

@@ -1,0 +1,13 @@
+{
+	"author": "Decados",
+	"description": "Makes golems more powerful so they are more rewarding to create and use as companions.",
+	"game_required": "1.0.0",
+	"icon": "S.png",
+	"mods_required": [
+		"core_2"
+	],
+	"name": "Golem Overhaul",
+	"thumbnail": "thumbnail2.png",
+	"overwrite": true,
+	"version": "0.1.0"
+}

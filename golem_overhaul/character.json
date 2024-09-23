@@ -1,0 +1,49 @@
+{
+"custom_eq_slots": [
+  {
+    "id": "core_2_golem_head",
+    "name": "Golem Head",
+    "item_types": [
+      26
+    ],
+    "replace": "head_armor",
+    "icon": 22
+  },
+  {
+    "id": "core_2_golem_torso",
+    "name": "Golem Torso",
+    "item_types": [
+      27
+    ],
+    "replace": "torso_armor",
+    "icon": 25
+  },
+  {
+    "id": "core_2_golem_legs",
+    "name": "Golem Legs",
+    "item_types": [
+      28
+    ],
+    "replace": "legs_armor",
+    "icon": 24
+  },
+  {
+    "id": "core_2_golem_hand",
+    "name": "Golem Hand",
+    "item_types": [
+      29
+    ],
+    "replace": "right_hand",
+    "icon": 23
+  },
+  {
+    "id": "core_2_golem_offhand",
+    "name": "Golem Offhand",
+    "item_types": [
+      29
+    ],
+    "replace": "left_hand",
+    "icon": 23
+  }
+]
+}

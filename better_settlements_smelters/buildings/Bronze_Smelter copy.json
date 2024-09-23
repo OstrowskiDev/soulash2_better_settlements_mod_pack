@@ -1,0 +1,37 @@
+{
+	"id": "Steel_Smelter",
+	"image": 165,
+	"max": 2,
+	"name": "Smelter: Steel",
+	"occupation": "2262",
+	"produces": [
+		{
+			"entities": [
+				{
+					"daily": 2,
+					"id": "149" 
+				}
+			],
+			"takes": "craftable"
+		}
+	],
+	"race": "-1",
+	"tier": 2,
+	"workers": [
+		1,
+		2
+	],
+	"allow_player": true,
+	"required_entities": [
+		{
+			"entities": ["143"],
+			"count": 4
+		},
+		{
+			"component": "resting_place",
+			"count": 2
+		}
+	],
+	"min_area": 20,
+	"group": "producers"
+}
