@@ -1,34 +1,21 @@
 {
 	"id": "Butcher_Shop",
 	"image": 138,
-	"max": 2,
+	"max": 1,
 	"name": "Butcher Shop",
 	"occupation": "2265",
 	"produces": [
-    {
-			"entities": [
-				{
-					"daily": 1,
-					"id": "core_2_Roast"
-				}
-			],
-			"takes": "craftable"
-		},
 		{
 			"entities": [
 				{
-					"daily": 1,
-					"id": "core_2_Meatloaf"
+					"daily": 4,
+					"id": "318"
 				}
 			],
 			"takes": [
 				{
-					"amount": 2,
-					"id": "318"
-				},
-				{
 					"amount": 1,
-					"id": "2003"
+					"id": "core_2_Caught_Calf"
 				}
 			]
 		},
@@ -36,13 +23,97 @@
 			"entities": [
 				{
 					"daily": 4,
-					"id": "809"
+					"id": "318"
 				}
 			],
 			"takes": [
 				{
-					"amount": 4,
+					"amount": 1,
+					"id": "core_2_Caught_Buck"
+				}
+			]
+		},
+		{
+			"entities": [
+				{
+					"daily": 4,
 					"id": "318"
+				}
+			],
+			"takes": [
+				{
+					"amount": 1,
+					"id": "core_2_Caught_Piglet"
+				}
+			]
+		},
+		{
+			"entities": [
+				{
+					"daily": 4,
+					"id": "318"
+				}
+			],
+			"takes": [
+				{
+					"amount": 1,
+					"id": "core_2_Caught_Chick"
+				}
+			]
+		},
+		{
+			"entities": [
+				{
+					"daily": 4,
+					"id": "318"
+				}
+			],
+			"takes": [
+				{
+					"amount": 1,
+					"id": "core_2_Caught_Lamb"
+				}
+			]
+		},
+		{
+			"entities": [
+				{
+					"daily": 4,
+					"id": "318"
+				}
+			],
+			"takes": [
+				{
+					"amount": 1,
+					"id": "core_2_Caught_Baby_Bat"
+				}
+			]
+		},
+		{
+			"entities": [
+				{
+					"daily": 4,
+					"id": "core_2_Slug_Meat"
+				}
+			],
+			"takes": [
+				{
+					"amount": 1,
+					"id": "core_2_Caught_Baby_Huge_Slug"
+				}
+			]
+		},
+		{
+			"entities": [
+				{
+					"daily": 4,
+					"id": "core_2_Larva_Meat"
+				}
+			],
+			"takes": [
+				{
+					"amount": 1,
+					"id": "core_2_Caught_Baby_Larva"
 				}
 			]
 		}
@@ -51,12 +122,12 @@
 	"tier": 2,
 	"workers": [
 		1,
-		4
+		2
 	],
 	"allow_player": true,
 	"required_entities": [
 		{
-			"entities": ["274", "core_2_wooden_table"],
+			"entities": ["16", "274", "2829", "2402", "2863", "2923"],
 			"count": 2
 		},
 		{
@@ -66,10 +137,6 @@
 		{
 			"entities": ["2430"],
 			"count": 1
-		},
-		{
-			"component": "resting_place",
-			"count": 4
 		}
 	],
 	"min_area": 40,

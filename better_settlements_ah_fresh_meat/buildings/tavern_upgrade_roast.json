@@ -1,9 +1,9 @@
 {
-	"id": "Butcher_Shop",
-	"image": 138,
-	"max": 2,
-	"name": "Butcher Shop",
-	"occupation": "2265",
+	"id": "Tavern_Upgrade_Roast",
+	"image": 10,
+	"max": 1,
+	"name": "Tavern Upgrade: Roast",
+	"occupation": "211",
 	"produces": [
     {
 			"entities": [
@@ -30,7 +30,7 @@
 					"amount": 1,
 					"id": "2003"
 				}
-      ]
+			]
 		},
 		{
 			"entities": [
@@ -39,7 +39,12 @@
 					"id": "809"
 				}
 			],
-			"takes": "craftable"
+			"takes": [
+				{
+					"amount": 4,
+					"id": "318"
+				}
+			]
 		}
 	],
 	"race": "-1",
@@ -51,22 +56,14 @@
 	"allow_player": true,
 	"required_entities": [
 		{
-			"entities": ["16"],
-			"count": 1
-		},
-		{
-			"entities": ["2860"],
+			"entities": ["16", "274", "2829", "2402", "2863", "2923"],
 			"count": 2
 		},
 		{
-			"entities": ["2207"],
-			"count": 1
-		},
-		{
-			"component": "resting_place",
-			"count": 4
+			"entities": ["3022"],
+			"count": 2
 		}
 	],
-	"min_area": 40,
-	"group": "traders"
+	"min_area": 16,
+	"group": "producers"
 }
