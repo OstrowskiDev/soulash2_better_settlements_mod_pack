@@ -1,0 +1,169 @@
+{
+	"id": "Elven_Woods_Traders_Ingots",
+	"image": 108,
+	"max": 2,
+	"name": "Elven Woods Traders: Ingots",
+	"occupation": "Gatherer",
+	"produces": [
+    {
+			"entities": [
+				{
+					"daily": 1.5,
+					"id": "core_2_Flower_Pollen"
+				},
+				{
+					"daily": 1.5,
+					"id": "2003"
+				},
+				{
+					"daily": 3,
+					"id": "812"
+				}
+			],
+			"takes": [
+        {
+					"amount": 1,
+					"id": "145"
+				}
+      ]
+		},
+		{
+			"entities": [
+				{
+					"daily": 3,
+					"id": "core_2_Flower_Pollen"
+				},
+				{
+					"daily": 3,
+					"id": "2003"
+				},
+				{
+					"daily": 6,
+					"id": "812"
+				}
+			],
+			"takes": [
+        {
+					"amount": 1,
+					"id": "2114"
+				}
+      ]
+		},
+		{
+			"entities": [
+				{
+					"daily": 3,
+					"id": "core_2_Flower_Pollen"
+				},
+				{
+					"daily": 3,
+					"id": "2003"
+				},
+				{
+					"daily": 6,
+					"id": "812"
+				}
+			],
+			"takes": [
+        {
+					"amount": 1,
+					"id": "147"
+				}
+      ]
+		},
+		{
+			"entities": [
+				{
+					"daily": 4.5,
+					"id": "core_2_Flower_Pollen"
+				},
+				{
+					"daily": 4.5,
+					"id": "2003"
+				},
+				{
+					"daily": 9,
+					"id": "812"
+				}
+			],
+			"takes": [
+        {
+					"amount": 1,
+					"id": "159"
+				}
+      ]
+		},
+		{
+			"entities": [
+				{
+					"daily": 6,
+					"id": "core_2_Flower_Pollen"
+				},
+				{
+					"daily": 6,
+					"id": "2003"
+				},
+				{
+					"daily": 12,
+					"id": "812"
+				}
+			],
+			"takes": [
+        {
+					"amount": 1,
+					"id": "149"
+				}
+      ]
+		},
+		{
+			"entities": [
+				{
+					"daily": 6,
+					"id": "core_2_Flower_Pollen"
+				},
+				{
+					"daily": 6,
+					"id": "2003"
+				},
+				{
+					"daily": 12,
+					"id": "812"
+				}
+			],
+			"takes": [
+        {
+					"amount": 1,
+					"id": "161"
+				}
+      ]
+		}
+
+	],
+	"race": "-1",
+	"tier": 2,
+	"workers": [
+		1,
+		1
+	],
+	"allow_player": true,
+	"required_entities": [
+		{
+			"entities": ["16"],
+			"count": 1
+		},
+		{
+			"entities": ["2860"],
+			"count": 2
+		},
+		{
+			"entities": ["2007"],
+			"count": 2
+		},
+		{
+			"component": "resting_place",
+			"count": 1
+		}
+	],
+	"min_area": 20,
+	"group": "traders"
+}

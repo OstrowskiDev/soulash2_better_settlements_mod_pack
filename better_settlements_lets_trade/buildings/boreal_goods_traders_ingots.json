@@ -1,0 +1,169 @@
+{
+	"id": "Boreal_Goods_Traders_Ingots",
+	"image": 108,
+	"max": 2,
+	"name": "Boreal Goods Traders: Ingots",
+	"occupation": "Gatherer",
+	"produces": [
+    {
+			"entities": [
+				{
+					"daily": 1.5,
+					"id": "core_2_Ground_Jelly"
+				},
+				{
+					"daily": 1.5,
+					"id": "core_2_Mush_Wood"
+				},
+				{
+					"daily": 3,
+					"id": "344"
+				}
+			],
+			"takes": [
+        {
+					"amount": 1,
+					"id": "145"
+				}
+      ]
+		},
+		{
+			"entities": [
+				{
+					"daily": 3,
+					"id": "core_2_Ground_Jelly"
+				},
+				{
+					"daily": 3,
+					"id": "core_2_Mush_Wood"
+				},
+				{
+					"daily": 6,
+					"id": "344"
+				}
+			],
+			"takes": [
+        {
+					"amount": 1,
+					"id": "2114"
+				}
+      ]
+		},
+		{
+			"entities": [
+				{
+					"daily": 3,
+					"id": "core_2_Ground_Jelly"
+				},
+				{
+					"daily": 3,
+					"id": "core_2_Mush_Wood"
+				},
+				{
+					"daily": 6,
+					"id": "344"
+				}
+			],
+			"takes": [
+        {
+					"amount": 1,
+					"id": "147"
+				}
+      ]
+		},
+		{
+			"entities": [
+				{
+					"daily": 4.5,
+					"id": "core_2_Ground_Jelly"
+				},
+				{
+					"daily": 4.5,
+					"id": "core_2_Mush_Wood"
+				},
+				{
+					"daily": 9,
+					"id": "344"
+				}
+			],
+			"takes": [
+        {
+					"amount": 1,
+					"id": "159"
+				}
+      ]
+		},
+		{
+			"entities": [
+				{
+					"daily": 6,
+					"id": "core_2_Ground_Jelly"
+				},
+				{
+					"daily": 6,
+					"id": "core_2_Mush_Wood"
+				},
+				{
+					"daily": 12,
+					"id": "344"
+				}
+			],
+			"takes": [
+        {
+					"amount": 1,
+					"id": "149"
+				}
+      ]
+		},
+		{
+			"entities": [
+				{
+					"daily": 6,
+					"id": "core_2_Ground_Jelly"
+				},
+				{
+					"daily": 6,
+					"id": "core_2_Mush_Wood"
+				},
+				{
+					"daily": 12,
+					"id": "344"
+				}
+			],
+			"takes": [
+        {
+					"amount": 1,
+					"id": "161"
+				}
+      ]
+		}
+
+	],
+	"race": "-1",
+	"tier": 2,
+	"workers": [
+		1,
+		1
+	],
+	"allow_player": true,
+	"required_entities": [
+		{
+			"entities": ["16"],
+			"count": 1
+		},
+		{
+			"entities": ["2860"],
+			"count": 2
+		},
+		{
+			"entities": ["2207"],
+			"count": 1
+		},
+		{
+			"component": "resting_place",
+			"count": 1
+		}
+	],
+	"min_area": 20,
+	"group": "traders"
+}

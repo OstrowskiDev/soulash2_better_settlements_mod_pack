@@ -1,0 +1,169 @@
+{
+	"id": "Rasimi_Traders_Ingots",
+	"image": 108,
+	"max": 2,
+	"name": "Rasimi Traders: Ingots",
+	"occupation": "Gatherer",
+	"produces": [
+    {
+			"entities": [
+				{
+					"daily": 1.5,
+					"id": "core_2_Savory_Branch"
+				},
+				{
+					"daily": 1.5,
+					"id": "core_2_Swamp_Grass"
+				},
+				{
+					"daily": 3,
+					"id": "core_2_Sugar"
+				}
+			],
+			"takes": [
+        {
+					"amount": 1,
+					"id": "145"
+				}
+      ]
+		},
+		{
+			"entities": [
+				{
+					"daily": 3,
+					"id": "core_2_Savory_Branch"
+				},
+				{
+					"daily": 3,
+					"id": "core_2_Swamp_Grass"
+				},
+				{
+					"daily": 6,
+					"id": "core_2_Sugar"
+				}
+			],
+			"takes": [
+        {
+					"amount": 1,
+					"id": "2114"
+				}
+      ]
+		},
+		{
+			"entities": [
+				{
+					"daily": 3,
+					"id": "core_2_Savory_Branch"
+				},
+				{
+					"daily": 3,
+					"id": "core_2_Swamp_Grass"
+				},
+				{
+					"daily": 6,
+					"id": "core_2_Sugar"
+				}
+			],
+			"takes": [
+        {
+					"amount": 1,
+					"id": "147"
+				}
+      ]
+		},
+		{
+			"entities": [
+				{
+					"daily": 4.5,
+					"id": "core_2_Savory_Branch"
+				},
+				{
+					"daily": 4.5,
+					"id": "core_2_Swamp_Grass"
+				},
+				{
+					"daily": 9,
+					"id": "core_2_Sugar"
+				}
+			],
+			"takes": [
+        {
+					"amount": 1,
+					"id": "159"
+				}
+      ]
+		},
+		{
+			"entities": [
+				{
+					"daily": 6,
+					"id": "core_2_Savory_Branch"
+				},
+				{
+					"daily": 6,
+					"id": "core_2_Swamp_Grass"
+				},
+				{
+					"daily": 12,
+					"id": "core_2_Sugar"
+				}
+			],
+			"takes": [
+        {
+					"amount": 1,
+					"id": "149"
+				}
+      ]
+		},
+		{
+			"entities": [
+				{
+					"daily": 6,
+					"id": "core_2_Savory_Branch"
+				},
+				{
+					"daily": 6,
+					"id": "core_2_Swamp_Grass"
+				},
+				{
+					"daily": 12,
+					"id": "core_2_Sugar"
+				}
+			],
+			"takes": [
+        {
+					"amount": 1,
+					"id": "161"
+				}
+      ]
+		}
+
+	],
+	"race": "-1",
+	"tier": 2,
+	"workers": [
+		1,
+		1
+	],
+	"allow_player": true,
+	"required_entities": [
+		{
+			"entities": ["16"],
+			"count": 1
+		},
+		{
+			"entities": ["2860"],
+			"count": 2
+		},
+		{
+			"entities": ["2207"],
+			"count": 1
+		},
+		{
+			"component": "resting_place",
+			"count": 1
+		}
+	],
+	"min_area": 20,
+	"group": "traders"
+}

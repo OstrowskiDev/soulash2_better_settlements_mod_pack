@@ -1,0 +1,13 @@
+{
+	"author": "Decados",
+	"description": "Adds caravan trade based buildings to player settlements. They simulate barter trade system and enable easy access to resources needed in other buildings without the need to micromanage trade routes.",
+	"name": "Better Settlements: Let's Trade!",
+	"game_required": "1.0.0",
+	"icon": "S.png",
+	"mods_required": [
+		"core_2"
+	],
+	"thumbnail": "thumbnail2.png",
+	"overwrite": true,
+	"version": "0.1.0"
+}
