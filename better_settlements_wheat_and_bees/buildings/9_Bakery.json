@@ -1,0 +1,65 @@
+{
+	"id": "9",
+	"image": 7,
+	"max": 2,
+	"name": "Bakery",
+	"occupation": "2261",
+	"produces": [
+		{
+			"entities": [
+				{
+					"daily": 1.33,
+					"id": "3028"
+				}
+			],
+			"takes": "craftable"
+		},
+		{
+			"entities": [
+				{
+					"daily": 4,
+					"id": "803"
+				}
+			],
+			"takes": [
+				{
+					"amount": 4,
+					"id": "801"
+				}
+			]
+		},
+		{
+			"entities": [
+				{
+					"daily": 4,
+					"id": "core_2_Barley_Bread"
+				}
+			],
+			"takes": [
+				{
+					"amount": 4,
+					"id": "core_2_Barley_Flour"
+				}
+			]
+		}
+	],
+	"race": "0",
+	"tier": 1,
+	"workers": [
+		1,
+		4
+	],
+	"allow_player": true,
+	"required_entities": [
+		{
+			"entities": ["3022"],
+			"count": 1
+		},
+		{
+			"component": "resting_place",
+			"count": 4
+		}
+	],
+	"min_area": 30,
+	"group": "producers"
+}

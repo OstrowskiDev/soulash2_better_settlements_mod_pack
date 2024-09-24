@@ -1,7 +1,7 @@
 {
-	"name": "Better Settlements: Melt It!",
-	"description": "Expands and improves vanilla smelter buildings",
 	"author": "Decados",
+	"description": "Adds aspiary building and new production recipes to bakery and taverns.",
+	"name": "Better Settlements: Wheat and Bees",
 	"game_required": "1.0.0",
 	"icon": "S.png",
 	"mods_required": [
