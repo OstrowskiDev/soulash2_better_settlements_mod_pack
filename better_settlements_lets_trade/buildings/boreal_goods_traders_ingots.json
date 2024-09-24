@@ -3,7 +3,7 @@
 	"image": 165,
 	"max": 2,
 	"name": "Boreal Goods Traders: Ingots",
-	"occupation": "Gatherer",
+	"occupation": "305",
 	"produces": [
     {
 			"entities": [
@@ -156,7 +156,7 @@
 			"count": 2
 		},
 		{
-			"entities": ["2207"],
+			"entities": ["core_2_Decorated_Stash"],
 			"count": 1
 		},
 		{

@@ -3,7 +3,7 @@
 	"image": 165,
 	"max": 2,
 	"name": "Elven Woods Traders: Ingots",
-	"occupation": "Gatherer",
+	"occupation": "305",
 	"produces": [
     {
 			"entities": [
