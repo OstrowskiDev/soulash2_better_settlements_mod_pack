@@ -1,0 +1,72 @@
+{
+	"id": "Butcher_Shop",
+	"image": 138,
+	"max": 2,
+	"name": "Butcher Shop",
+	"occupation": "2265",
+	"produces": [
+    {
+			"entities": [
+				{
+					"daily": 1,
+					"id": "core_2_Roast"
+				}
+			],
+			"takes": "craftable"
+		},
+		{
+			"entities": [
+				{
+					"daily": 1,
+					"id": "core_2_Meatloaf"
+				}
+			],
+			"takes": [
+				{
+					"amount": 2,
+					"id": "318"
+				},
+				{
+					"amount": 1,
+					"id": "2003"
+				}
+      ]
+		},
+		{
+			"entities": [
+				{
+					"daily": 4,
+					"id": "809"
+				}
+			],
+			"takes": "craftable"
+		}
+	],
+	"race": "-1",
+	"tier": 2,
+	"workers": [
+		1,
+		4
+	],
+	"allow_player": true,
+	"required_entities": [
+		{
+			"entities": ["16"],
+			"count": 1
+		},
+		{
+			"entities": ["2860"],
+			"count": 2
+		},
+		{
+			"entities": ["2207"],
+			"count": 1
+		},
+		{
+			"component": "resting_place",
+			"count": 4
+		}
+	],
+	"min_area": 40,
+	"group": "traders"
+}

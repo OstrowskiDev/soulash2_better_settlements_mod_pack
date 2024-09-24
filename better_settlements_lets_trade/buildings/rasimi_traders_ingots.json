@@ -1,6 +1,6 @@
 {
 	"id": "Rasimi_Traders_Ingots",
-	"image": 108,
+	"image": 165,
 	"max": 2,
 	"name": "Rasimi Traders: Ingots",
 	"occupation": "Gatherer",
@@ -152,12 +152,8 @@
 			"count": 1
 		},
 		{
-			"entities": ["2860"],
-			"count": 2
-		},
-		{
 			"entities": ["2207"],
-			"count": 1
+			"count": 3
 		},
 		{
 			"component": "resting_place",
