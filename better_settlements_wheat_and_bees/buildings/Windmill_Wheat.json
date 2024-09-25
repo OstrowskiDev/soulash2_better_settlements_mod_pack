@@ -1,0 +1,42 @@
+{
+	"id": "Windmill_Wheat",
+	"image": 6,
+	"max": 2,
+	"name": "Windmill: Wheat",
+	"occupation": "2260",
+	"produces": [
+		{
+			"entities": [
+				{
+					"daily": 20,
+					"id": "801"
+				}
+			],
+			"takes": [
+				{
+					"amount": 20,
+					"id": "800"
+				}
+			]
+		}
+	],
+	"race": "0",
+	"tier": 1,
+	"workers": [
+		1,
+		2
+	],
+	"allow_player": true,
+	"required_entities": [
+		{
+			"entities": ["799"],
+			"count": 1
+		},
+		{
+			"component": "resting_place",
+			"count": 2
+		}
+	],
+	"min_area": 20,
+	"group": "specialists"
+}

@@ -1,0 +1,42 @@
+{
+	"id": "Windmill_Barley",
+	"image": 6,
+	"max": 2,
+	"name": "Windmill: Barley",
+	"occupation": "2260",
+	"produces": [
+		{
+			"entities": [
+				{
+					"daily": 20,
+					"id": "core_2_Barley_Flour"
+				}
+			],
+			"takes": [
+				{
+					"amount": 20,
+					"id": "3093"
+				}
+			]
+		}
+	],
+	"race": "0",
+	"tier": 1,
+	"workers": [
+		1,
+		2
+	],
+	"allow_player": true,
+	"required_entities": [
+		{
+			"entities": ["799"],
+			"count": 1
+		},
+		{
+			"component": "resting_place",
+			"count": 2
+		}
+	],
+	"min_area": 20,
+	"group": "specialists"
+}
