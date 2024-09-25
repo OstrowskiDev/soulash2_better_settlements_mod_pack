@@ -1,0 +1,11 @@
+{
+  "graphics": {
+    "tilesheets": [
+      {
+        "name": "building_groups",
+        "tiles": [8, 1],
+        "file": "assets/gfx/ui/building_groups.png"
+      }
+    ]
+  }
+}
