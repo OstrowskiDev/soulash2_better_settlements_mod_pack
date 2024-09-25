@@ -8,7 +8,8 @@
 		{
 			"entities": [
 				{
-					"daily": 1.33,
+					"daily": 1,
+					"description": "Gingerbread - wheat, max: 4",
 					"id": "3028"
 				}
 			],
@@ -17,7 +18,27 @@
 		{
 			"entities": [
 				{
+					"daily": 1,
+					"description": "Gingerbread - barley, max: 4",
+					"id": "3028"
+				}
+			],
+			"takes": [
+				{
+					"amount": 2,
+					"id": "core_2_Barley_Flour"
+				},
+				{
+					"amount": 1,
+					"id": "820"
+				}
+			]
+		},
+		{
+			"entities": [
+				{
 					"daily": 4,
+					"description": "Wheat Bread, max: 16",
 					"id": "803"
 				}
 			],
@@ -32,6 +53,7 @@
 			"entities": [
 				{
 					"daily": 4,
+					"description": "Barley Bread, max: 16",
 					"id": "core_2_Barley_Bread"
 				}
 			],
@@ -39,6 +61,102 @@
 				{
 					"amount": 4,
 					"id": "core_2_Barley_Flour"
+				}
+			]
+		},
+		{
+			"entities": [
+				{
+					"daily": 1,
+					"description": "apple pie, max: 3",
+					"id": "879"
+				}
+			],
+			"takes": "craftable"
+		},
+		{
+			"entities": [
+				{
+					"daily": 1,
+					"description": "apple pie: barley, max: 3",
+					"id": "879"
+				}
+			],
+			"takes": [
+				{
+					"amount": 2,
+					"id": "811"
+				},
+				{
+					"amount": 1,
+					"id": "core_2_Barley_Flour"
+				}
+			]
+		},
+		{
+			"entities": [
+				{
+					"daily": 1,
+					"description": "blueberry pie, max: 3",
+					"id": "880"
+				}
+			],
+			"takes": "craftable"
+		},
+		{
+			"entities": [
+				{
+					"daily": 1,
+					"description": "blueberry pie: barley, max: 3",
+					"id": "880"
+				}
+			],
+			"takes": [
+				{
+					"amount": 2,
+					"id": "812"
+				},
+				{
+					"amount": 1,
+					"id": "core_2_Barley_Flour"
+				}
+			]
+		},
+		{
+			"entities": [
+				{
+					"daily": 1,
+					"description": "strawberry pie: wheat, max: 3",
+					"id": "3029"
+				}
+			],
+			"takes": [
+				{
+					"amount": 2,
+					"id": "801"
+				},
+				{
+					"amount": 2,
+					"id": "814"
+				}
+			]
+		},
+		{
+			"entities": [
+				{
+					"daily": 1,
+					"description": "strawberry pie: barley, max: 3",
+					"id": "3029"
+				}
+			],
+			"takes": [
+				{
+					"amount": 2,
+					"id": "core_2_Barley_Flour"
+				},
+				{
+					"amount": 2,
+					"id": "814"
 				}
 			]
 		}
