@@ -1,35 +1,13 @@
 {
-	"id": "Boreal_Goods_Traders_Ingots",
-	"image": 1,
+	"id": "Boreal_Goods_Traders_Gems",
+	"image": 0,
 	"max": 2,
-	"name": "Boreal Goods Traders: Ingots",
+	"name": "Boreal Goods Traders: Gems",
 	"occupation": "305",
 	"produces": [
     {
 			"entities": [
 				{
-					"daily": 1.5,
-					"id": "core_2_Ground_Jelly"
-				},
-				{
-					"daily": 1.5,
-					"id": "core_2_Mush_Wood"
-				},
-				{
-					"daily": 3,
-					"id": "344"
-				}
-			],
-			"takes": [
-        {
-					"amount": 1,
-					"id": "145"
-				}
-      ]
-		},
-		{
-			"entities": [
-				{
 					"daily": 3,
 					"id": "core_2_Ground_Jelly"
 				},
@@ -45,95 +23,169 @@
 			"takes": [
         {
 					"amount": 1,
-					"id": "2114"
+					"description": "Onyx",
+					"id": "2118" 
 				}
       ]
 		},
 		{
 			"entities": [
 				{
-					"daily": 3,
+					"daily": 2,
 					"id": "core_2_Ground_Jelly"
 				},
 				{
-					"daily": 3,
+					"daily": 2,
 					"id": "core_2_Mush_Wood"
 				},
 				{
-					"daily": 6,
+					"daily": 4,
 					"id": "344"
 				}
 			],
 			"takes": [
         {
 					"amount": 1,
-					"id": "147"
+					"description": "Serpentine",
+					"id": "2120"
 				}
       ]
 		},
 		{
 			"entities": [
 				{
-					"daily": 4.5,
+					"daily": 2.5,
 					"id": "core_2_Ground_Jelly"
 				},
 				{
-					"daily": 4.5,
+					"daily": 2.5,
 					"id": "core_2_Mush_Wood"
 				},
 				{
-					"daily": 9,
+					"daily": 5,
 					"id": "344"
 				}
 			],
 			"takes": [
         {
 					"amount": 1,
-					"id": "159"
+					"description": "Ruby",
+					"id": "845"
 				}
       ]
 		},
 		{
 			"entities": [
 				{
-					"daily": 6,
+					"daily": 2,
 					"id": "core_2_Ground_Jelly"
 				},
 				{
-					"daily": 6,
+					"daily": 2,
 					"id": "core_2_Mush_Wood"
 				},
 				{
-					"daily": 12,
+					"daily": 4,
 					"id": "344"
 				}
 			],
 			"takes": [
         {
-					"amount": 1,
-					"id": "149"
+					"amount": 2,
+					"description": "Emerald",
+					"id": "847"
 				}
       ]
 		},
 		{
 			"entities": [
 				{
-					"daily": 6,
+					"daily": 2.5,
 					"id": "core_2_Ground_Jelly"
 				},
 				{
-					"daily": 6,
+					"daily": 2.5,
 					"id": "core_2_Mush_Wood"
 				},
 				{
-					"daily": 12,
+					"daily": 5,
+					"id": "344"
+				}
+			],
+			"takes": [
+        {
+					"amount": 2,
+					"description": "Sapphire",
+					"id": "848"
+				}
+      ]
+		},
+		{
+			"entities": [
+				{
+					"daily": 2,
+					"id": "core_2_Ground_Jelly"
+				},
+				{
+					"daily": 2,
+					"id": "core_2_Mush_Wood"
+				},
+				{
+					"daily": 5,
 					"id": "344"
 				}
 			],
 			"takes": [
         {
 					"amount": 1,
-					"id": "161"
+					"description": "Topaz",
+					"id": "849"
+				}
+      ]
+		},
+		{
+			"entities": [
+				{
+					"daily": 2,
+					"id": "core_2_Ground_Jelly"
+				},
+				{
+					"daily": 2,
+					"id": "core_2_Mush_Wood"
+				},
+				{
+					"daily": 5,
+					"id": "344"
+				}
+			],
+			"takes": [
+        {
+					"amount": 1,
+					"description": "Aquamarine",
+					"id": "851"
+				}
+      ]
+		},
+		{
+			"entities": [
+				{
+					"daily": 4,
+					"id": "core_2_Ground_Jelly"
+				},
+				{
+					"daily": 4,
+					"id": "core_2_Mush_Wood"
+				},
+				{
+					"daily": 7,
+					"id": "344"
+				}
+			],
+			"takes": [
+        {
+					"amount": 1,
+					"description": "Diamond",
+					"id": "852"
 				}
       ]
 		}

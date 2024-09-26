@@ -1,0 +1,11 @@
+{
+  "graphics": {
+    "tilesheets": [
+      {
+        "name": "buildings",
+        "tiles": [ 9, 1 ],
+        "file": "assets/buildings_new.png"
+      }
+    ]
+  }
+}
