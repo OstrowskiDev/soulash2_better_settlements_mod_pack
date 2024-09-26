@@ -1,0 +1,217 @@
+{
+	"id": "Rasimi_Traders_Gems",
+	"image": 300,
+	"max": 2,
+	"name": "Rasimi Traders: Gems",
+	"occupation": "305",
+	"produces": [
+    {
+			"entities": [
+				{
+					"daily": 3,
+					"id": "core_2_Savory_Branch"
+				},
+				{
+					"daily": 3,
+					"id": "core_2_Swamp_Grass"
+				},
+				{
+					"daily": 6,
+					"id": "core_2_Sugar"
+				}
+			],
+			"takes": [
+        {
+					"amount": 1,
+					"description": "Onyx",
+					"id": "2118" 
+				}
+      ]
+		},
+		{
+			"entities": [
+				{
+					"daily": 2,
+					"id": "core_2_Savory_Branch"
+				},
+				{
+					"daily": 2,
+					"id": "core_2_Swamp_Grass"
+				},
+				{
+					"daily": 4,
+					"id": "core_2_Sugar"
+				}
+			],
+			"takes": [
+        {
+					"amount": 1,
+					"description": "Serpentine",
+					"id": "2120"
+				}
+      ]
+		},
+		{
+			"entities": [
+				{
+					"daily": 2.5,
+					"id": "core_2_Savory_Branch"
+				},
+				{
+					"daily": 2.5,
+					"id": "core_2_Swamp_Grass"
+				},
+				{
+					"daily": 5,
+					"id": "core_2_Sugar"
+				}
+			],
+			"takes": [
+        {
+					"amount": 1,
+					"description": "Ruby",
+					"id": "845"
+				}
+      ]
+		},
+		{
+			"entities": [
+				{
+					"daily": 2,
+					"id": "core_2_Savory_Branch"
+				},
+				{
+					"daily": 2,
+					"id": "core_2_Swamp_Grass"
+				},
+				{
+					"daily": 4,
+					"id": "core_2_Sugar"
+				}
+			],
+			"takes": [
+        {
+					"amount": 2,
+					"description": "Emerald",
+					"id": "847"
+				}
+      ]
+		},
+		{
+			"entities": [
+				{
+					"daily": 2.5,
+					"id": "core_2_Savory_Branch"
+				},
+				{
+					"daily": 2.5,
+					"id": "core_2_Swamp_Grass"
+				},
+				{
+					"daily": 5,
+					"id": "core_2_Sugar"
+				}
+			],
+			"takes": [
+        {
+					"amount": 2,
+					"description": "Sapphire",
+					"id": "848"
+				}
+      ]
+		},
+		{
+			"entities": [
+				{
+					"daily": 2,
+					"id": "core_2_Savory_Branch"
+				},
+				{
+					"daily": 2,
+					"id": "core_2_Swamp_Grass"
+				},
+				{
+					"daily": 5,
+					"id": "core_2_Sugar"
+				}
+			],
+			"takes": [
+        {
+					"amount": 1,
+					"description": "Topaz",
+					"id": "849"
+				}
+      ]
+		},
+		{
+			"entities": [
+				{
+					"daily": 2,
+					"id": "core_2_Savory_Branch"
+				},
+				{
+					"daily": 2,
+					"id": "core_2_Swamp_Grass"
+				},
+				{
+					"daily": 5,
+					"id": "core_2_Sugar"
+				}
+			],
+			"takes": [
+        {
+					"amount": 1,
+					"description": "Aquamarine",
+					"id": "851"
+				}
+      ]
+		},
+		{
+			"entities": [
+				{
+					"daily": 4,
+					"id": "core_2_Savory_Branch"
+				},
+				{
+					"daily": 4,
+					"id": "core_2_Swamp_Grass"
+				},
+				{
+					"daily": 7,
+					"id": "core_2_Sugar"
+				}
+			],
+			"takes": [
+        {
+					"amount": 1,
+					"description": "Diamond",
+					"id": "852"
+				}
+      ]
+		}
+
+	],
+	"race": "-1",
+	"tier": 2,
+	"workers": [
+		1,
+		1
+	],
+	"allow_player": true,
+	"required_entities": [
+		{
+			"entities": ["16"],
+			"count": 1
+		},
+		{
+			"entities": ["core_2_Decorated_Stash"],
+			"count": 3
+		},
+		{
+			"component": "resting_place",
+			"count": 1
+		}
+	],
+	"min_area": 20,
+	"group": "traders"
+}
