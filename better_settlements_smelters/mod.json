@@ -7,7 +7,7 @@
 	"mods_required": [
 		"core_2", "better_settlements_new_building_groups"
 	],
-	"thumbnail": "thumbnail2.png",
+	"thumbnail": "thumbnail.png",
 	"overwrite": true,
 	"version": "0.1.0"
 }

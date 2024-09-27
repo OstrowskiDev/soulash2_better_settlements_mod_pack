@@ -1,13 +1,14 @@
 {
-	"name": "Better Settlements: New building groups",
-	"description": "Expands building groups for better settlements mods. Adding traders and specialists groups. Essential for most better settlements mods. Made as separate mod to make it easier to crate compatilibity patches with other mods that also add new building groups.",
 	"author": "Decados",
+	"description": "Expands building groups for better settlements mods. Adding traders and specialists groups. Essential for most better settlements mods. Made as separate mod to make it easier to crate compatilibity patches with other mods that also add new building groups.",
 	"game_required": "1.0.0",
 	"icon": "BS_logo_small.png",
 	"mods_required": [
 		"core_2"
 	],
-	"thumbnail": "thumbnail2.png",
+	"name": "Better Settlements: New building groups",
 	"overwrite": true,
+	"steam_publish_id": 3338916823,
+	"thumbnail": "thumbnail.png",
 	"version": "0.1.0"
 }
