@@ -1,194 +1,218 @@
 {
-	"id": "Traders_06",
-	"image": 3,
-	"max": 2,
-	"name": "Elven Woods Traders: Gems",
+	"id": "Traders_04",
+	"image": 5,
+	"max": 4,
+	"name": "Elven Woods Traders: Wood",
 	"occupation": "305",
 	"produces": [
     {
 			"entities": [
 				{
+					"daily": 0.4,
+					"id": "core_2_Flower_Pollen"
+				},
+				{
+					"daily": 0.4,
+					"id": "2003"
+				},
+				{
+					"daily": 0.7,
+					"id": "812"
+				}
+			],
+			"takes": [
+        {
+					"amount": 1,
+          "description": "cedar wood",
+					"id": "2100"
+				}
+      ]
+		},
+		{
+			"entities": [
+				{
+					"daily": 0.8,
+					"id": "core_2_Flower_Pollen"
+				},
+				{
+					"daily": 0.8,
+					"id": "2003"
+				},
+				{
+					"daily": 1.6,
+					"id": "812"
+				}
+			],
+			"takes": [
+        {
+					"amount": 1,
+          "description": "mahogany wood",
+					"id": "2103"
+				}
+      ]
+		},
+		{
+			"entities": [
+				{
+					"daily": 0.5,
+					"id": "core_2_Flower_Pollen"
+				},
+				{
+					"daily": 0.5,
+					"id": "2003"
+				},
+				{
+					"daily": 1,
+					"id": "812"
+				}
+			],
+			"takes": [
+        {
+					"amount": 1,
+          "description": "bamboo wood",
+					"id": "2105"
+				}
+      ]
+		},
+		{
+			"entities": [
+				{
+					"daily": 1,
+					"id": "core_2_Flower_Pollen"
+				},
+				{
+					"daily": 1,
+					"id": "2003"
+				},
+				{
+					"daily": 2,
+					"id": "812"
+				}
+			],
+			"takes": [
+        {
+					"amount": 1,
+          "description": "yew wood",
+					"id": "2110"
+				}
+      ]
+		},
+		{
+			"entities": [
+				{
+					"daily": 0.4,
+					"id": "core_2_Flower_Pollen"
+				},
+				{
+					"daily": 0.4,
+					"id": "2003"
+				},
+				{
+					"daily": 0.8,
+					"id": "812"
+				}
+			],
+			"takes": [
+        {
+					"amount": 1,
+          "description": "baobab wood",
+					"id": "2479"
+				}
+      ]
+		},
+		{
+			"entities": [
+				{
+					"daily": 1.5,
+					"id": "core_2_Flower_Pollen"
+				},
+				{
+					"daily": 1.5,
+					"id": "2003"
+				},
+				{
 					"daily": 3,
-					"id": "core_2_Flower_Pollen"
-				},
-				{
-					"daily": 3,
-					"id": "2003"
-				},
-				{
-					"daily": 6,
 					"id": "812"
 				}
 			],
 			"takes": [
         {
 					"amount": 1,
-					"description": "Onyx",
-					"id": "2118" 
+          "description": "elven wood",
+					"id": "325"
 				}
       ]
 		},
 		{
 			"entities": [
 				{
-					"daily": 2,
+					"daily": 0.5,
 					"id": "core_2_Flower_Pollen"
 				},
 				{
-					"daily": 2,
+					"daily": 0.5,
 					"id": "2003"
 				},
 				{
-					"daily": 4,
+					"daily": 1,
 					"id": "812"
 				}
 			],
 			"takes": [
         {
 					"amount": 1,
-					"description": "Serpentine",
-					"id": "2120"
+          "description": "aspen wood",
+					"id": "865"
 				}
       ]
 		},
 		{
 			"entities": [
 				{
-					"daily": 2.5,
+					"daily": 0.4,
 					"id": "core_2_Flower_Pollen"
 				},
 				{
-					"daily": 2.5,
+					"daily": 0.4,
 					"id": "2003"
 				},
 				{
-					"daily": 5,
+					"daily": 0.8,
 					"id": "812"
 				}
 			],
 			"takes": [
         {
 					"amount": 1,
-					"description": "Ruby",
-					"id": "845"
+          "description": "candelabra wood",
+					"id": "core_2_Candelabra_Wood"
 				}
       ]
 		},
 		{
 			"entities": [
 				{
-					"daily": 2,
+					"daily": 0.4,
 					"id": "core_2_Flower_Pollen"
 				},
 				{
-					"daily": 2,
+					"daily": 0.4,
 					"id": "2003"
 				},
 				{
-					"daily": 4,
-					"id": "812"
-				}
-			],
-			"takes": [
-        {
-					"amount": 2,
-					"description": "Emerald",
-					"id": "847"
-				}
-      ]
-		},
-		{
-			"entities": [
-				{
-					"daily": 2.5,
-					"id": "core_2_Flower_Pollen"
-				},
-				{
-					"daily": 2.5,
-					"id": "2003"
-				},
-				{
-					"daily": 5,
-					"id": "812"
-				}
-			],
-			"takes": [
-        {
-					"amount": 2,
-					"description": "Sapphire",
-					"id": "848"
-				}
-      ]
-		},
-		{
-			"entities": [
-				{
-					"daily": 2,
-					"id": "core_2_Flower_Pollen"
-				},
-				{
-					"daily": 2,
-					"id": "2003"
-				},
-				{
-					"daily": 5,
+					"daily": 0.7,
 					"id": "812"
 				}
 			],
 			"takes": [
         {
 					"amount": 1,
-					"description": "Topaz",
-					"id": "849"
-				}
-      ]
-		},
-		{
-			"entities": [
-				{
-					"daily": 2,
-					"id": "core_2_Flower_Pollen"
-				},
-				{
-					"daily": 2,
-					"id": "2003"
-				},
-				{
-					"daily": 5,
-					"id": "812"
-				}
-			],
-			"takes": [
-        {
-					"amount": 1,
-					"description": "Aquamarine",
-					"id": "851"
-				}
-      ]
-		},
-		{
-			"entities": [
-				{
-					"daily": 4,
-					"id": "core_2_Flower_Pollen"
-				},
-				{
-					"daily": 4,
-					"id": "2003"
-				},
-				{
-					"daily": 7,
-					"id": "812"
-				}
-			],
-			"takes": [
-        {
-					"amount": 1,
-					"description": "Diamond",
-					"id": "852"
+          "description": "fir wood",
+					"id": "core_2_Fir_Wood"
 				}
       ]
 		}
+
 	],
 	"race": "-1",
 	"tier": 2,
@@ -207,8 +231,8 @@
 			"count": 2
 		},
 		{
-			"entities": ["2007"],
-			"count": 2
+			"entities": ["core_2_Decorated_Stash"],
+			"count": 1
 		},
 		{
 			"component": "resting_place",

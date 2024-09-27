@@ -1,5 +1,5 @@
 {
-	"id": "Elven_Woods_Traders_Ingots",
+	"id": "Traders_07", 
 	"image": 4,
 	"max": 2,
 	"name": "Elven Woods Traders: Ingots",
@@ -137,7 +137,6 @@
 				}
       ]
 		}
-
 	],
 	"race": "-1",
 	"tier": 2,
