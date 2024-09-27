@@ -1,0 +1,217 @@
+{
+	"id": "Traders_13",
+	"image": 9,
+	"max": 2,
+	"name": "Human Traders: Gems",
+	"occupation": "305",
+	"produces": [
+    {
+			"entities": [
+				{
+					"daily": 4,
+					"id": "814"
+				},
+				{
+					"daily": 6,
+					"id": "802"
+				},
+				{
+					"daily": 40,
+					"id": "800"
+				}
+			],
+			"takes": [
+        {
+					"amount": 1,
+					"description": "Onyx",
+					"id": "2118" 
+				}
+      ]
+		},
+		{
+			"entities": [
+				{
+					"daily": 4,
+					"id": "814"
+				},
+				{
+					"daily": 4,
+					"id": "802"
+				},
+				{
+					"daily": 25,
+					"id": "800"
+				}
+			],
+			"takes": [
+        {
+					"amount": 1,
+					"description": "Serpentine",
+					"id": "2120"
+				}
+      ]
+		},
+		{
+			"entities": [
+				{
+					"daily": 4,
+					"id": "814"
+				},
+				{
+					"daily": 6,
+					"id": "802"
+				},
+				{
+					"daily": 35,
+					"id": "800"
+				}
+			],
+			"takes": [
+        {
+					"amount": 1,
+					"description": "Ruby",
+					"id": "845"
+				}
+      ]
+		},
+		{
+			"entities": [
+				{
+					"daily": 2,
+					"id": "814"
+				},
+				{
+					"daily": 2,
+					"id": "802"
+				},
+				{
+					"daily": 25,
+					"id": "800"
+				}
+			],
+			"takes": [
+        {
+					"amount": 2,
+					"description": "Emerald",
+					"id": "847"
+				}
+      ]
+		},
+		{
+			"entities": [
+				{
+					"daily": 3,
+					"id": "814"
+				},
+				{
+					"daily": 6,
+					"id": "802"
+				},
+				{
+					"daily": 30,
+					"id": "800"
+				}
+			],
+			"takes": [
+        {
+					"amount": 2,
+					"description": "Sapphire",
+					"id": "848"
+				}
+      ]
+		},
+		{
+			"entities": [
+				{
+					"daily": 4,
+					"id": "814"
+				},
+				{
+					"daily": 4,
+					"id": "802"
+				},
+				{
+					"daily": 25,
+					"id": "800"
+				}
+			],
+			"takes": [
+        {
+					"amount": 1,
+					"description": "Topaz",
+					"id": "849"
+				}
+      ]
+		},
+		{
+			"entities": [
+				{
+					"daily": 4,
+					"id": "814"
+				},
+				{
+					"daily": 4,
+					"id": "802"
+				},
+				{
+					"daily": 27,
+					"id": "800"
+				}
+			],
+			"takes": [
+        {
+					"amount": 1,
+					"description": "Aquamarine",
+					"id": "851"
+				}
+      ]
+		},
+		{
+			"entities": [
+				{
+					"daily": 6,
+					"id": "814"
+				},
+				{
+					"daily": 6,
+					"id": "802"
+				},
+				{
+					"daily": 55,
+					"id": "800"
+				}
+			],
+			"takes": [
+        {
+					"amount": 1,
+					"description": "Diamond",
+					"id": "852"
+				}
+      ]
+		}
+
+	],
+	"race": "-1",
+	"tier": 2,
+	"workers": [
+		1,
+		1
+	],
+	"allow_player": true,
+	"required_entities": [
+		{
+			"entities": ["16"],
+			"count": 1
+		},
+		{
+			"entities": ["core_2_Decorated_Stash"],
+			"count": 3
+		},
+		{
+			"component": "resting_place",
+			"count": 1
+		}
+	],
+	"min_area": 20,
+	"group": "traders"
+}
