@@ -1,7 +1,7 @@
 {
 	"id": "Tavern_Upgrade_Roast",
-	"image": 10,
-	"max": 1,
+	"image": 0,
+	"max": 2,
 	"name": "Tavern Upgrade: Roast",
 	"occupation": "211",
 	"produces": [
@@ -9,6 +9,7 @@
 			"entities": [
 				{
 					"daily": 1,
+					"description": "Roast, max: 4",
 					"id": "core_2_Roast"
 				}
 			],
@@ -18,6 +19,7 @@
 			"entities": [
 				{
 					"daily": 1,
+					"description": "Meatloaf: 2x meat + herbs, max: 4",
 					"id": "core_2_Meatloaf"
 				}
 			],
@@ -25,6 +27,44 @@
 				{
 					"amount": 2,
 					"id": "318"
+				},
+				{
+					"amount": 1,
+					"id": "2003"
+				}
+			]
+		},
+		{
+			"entities": [
+				{
+					"daily": 1,
+					"description": "Meatloaf: 2x slug meat + herbs, max: 4",
+					"id": "core_2_Meatloaf"
+				}
+			],
+			"takes": [
+				{
+					"amount": 2,
+					"id": "core_2_Slug_Meat"
+				},
+				{
+					"amount": 1,
+					"id": "2003"
+				}
+			]
+		},
+		{
+			"entities": [
+				{
+					"daily": 1,
+					"description": "Meatloaf: 2x larva meat + herbs, max: 4",
+					"id": "core_2_Meatloaf"
+				}
+			],
+			"takes": [
+				{
+					"amount": 2,
+					"id": "core_2_Larva_Meat"
 				},
 				{
 					"amount": 1,
