@@ -1,0 +1,217 @@
+{
+	"id": "Traders_14",
+	"image": 12,
+	"max": 2,
+	"name": "Barley Hills Traders: Gems",
+	"occupation": "305",
+	"produces": [
+    {
+			"entities": [
+				{
+					"daily": 4,
+					"id": "core_2_Gooseberry"
+				},
+				{
+					"daily": 1,
+					"id": "core_2_Limestone_Block"
+				},
+				{
+					"daily": 40,
+					"id": "3093"
+				}
+			],
+			"takes": [
+        {
+					"amount": 1,
+					"description": "Onyx",
+					"id": "2118" 
+				}
+      ]
+		},
+		{
+			"entities": [
+				{
+					"daily": 4,
+					"id": "core_2_Gooseberry"
+				},
+				{
+					"daily": 0.5,
+					"id": "core_2_Limestone_Block"
+				},
+				{
+					"daily": 25,
+					"id": "3093"
+				}
+			],
+			"takes": [
+        {
+					"amount": 1,
+					"description": "Serpentine",
+					"id": "2120"
+				}
+      ]
+		},
+		{
+			"entities": [
+				{
+					"daily": 4,
+					"id": "core_2_Gooseberry"
+				},
+				{
+					"daily": 1,
+					"id": "core_2_Limestone_Block"
+				},
+				{
+					"daily": 35,
+					"id": "3093"
+				}
+			],
+			"takes": [
+        {
+					"amount": 1,
+					"description": "Ruby",
+					"id": "845"
+				}
+      ]
+		},
+		{
+			"entities": [
+				{
+					"daily": 2,
+					"id": "core_2_Gooseberry"
+				},
+				{
+					"daily": 1,
+					"id": "core_2_Limestone_Block"
+				},
+				{
+					"daily": 25,
+					"id": "3093"
+				}
+			],
+			"takes": [
+        {
+					"amount": 2,
+					"description": "Emerald",
+					"id": "847"
+				}
+      ]
+		},
+		{
+			"entities": [
+				{
+					"daily": 3,
+					"id": "core_2_Gooseberry"
+				},
+				{
+					"daily": 1,
+					"id": "core_2_Limestone_Block"
+				},
+				{
+					"daily": 30,
+					"id": "3093"
+				}
+			],
+			"takes": [
+        {
+					"amount": 2,
+					"description": "Sapphire",
+					"id": "848"
+				}
+      ]
+		},
+		{
+			"entities": [
+				{
+					"daily": 4,
+					"id": "core_2_Gooseberry"
+				},
+				{
+					"daily": 1,
+					"id": "core_2_Limestone_Block"
+				},
+				{
+					"daily": 25,
+					"id": "3093"
+				}
+			],
+			"takes": [
+        {
+					"amount": 1,
+					"description": "Topaz",
+					"id": "849"
+				}
+      ]
+		},
+		{
+			"entities": [
+				{
+					"daily": 4,
+					"id": "core_2_Gooseberry"
+				},
+				{
+					"daily": 1,
+					"id": "core_2_Limestone_Block"
+				},
+				{
+					"daily": 27,
+					"id": "3093"
+				}
+			],
+			"takes": [
+        {
+					"amount": 1,
+					"description": "Aquamarine",
+					"id": "851"
+				}
+      ]
+		},
+		{
+			"entities": [
+				{
+					"daily": 6,
+					"id": "core_2_Gooseberry"
+				},
+				{
+					"daily": 2,
+					"id": "core_2_Limestone_Block"
+				},
+				{
+					"daily": 55,
+					"id": "3093"
+				}
+			],
+			"takes": [
+        {
+					"amount": 1,
+					"description": "Diamond",
+					"id": "852"
+				}
+      ]
+		}
+
+	],
+	"race": "-1",
+	"tier": 2,
+	"workers": [
+		1,
+		1
+	],
+	"allow_player": true,
+	"required_entities": [
+		{
+			"entities": ["16"],
+			"count": 1
+		},
+		{
+			"entities": ["core_2_Decorated_Stash"],
+			"count": 3
+		},
+		{
+			"component": "resting_place",
+			"count": 1
+		}
+	],
+	"min_area": 20,
+	"group": "traders"
+}

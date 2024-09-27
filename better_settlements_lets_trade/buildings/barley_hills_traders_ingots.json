@@ -1,0 +1,171 @@
+{
+	"id": "Traders_11",
+	"image": 13,
+	"max": 2,
+	"name": "Barley Hills Traders: Ingots",
+	"occupation": "305",
+	"produces": [
+    {
+			"entities": [
+				{
+					"daily": 2,
+					"id": "core_2_Gooseberry"
+				},
+				{
+					"daily": 1,
+					"id": "core_2_Limestone_Block"
+				},
+				{
+					"daily": 18,
+					"id": "3093"
+				}
+			],
+			"takes": [
+        {
+					"amount": 1,
+          "description": "Copper Ingot",
+					"id": "145"
+				}
+      ]
+		},
+		{
+			"entities": [
+				{
+					"daily": 4,
+					"id": "core_2_Gooseberry"
+				},
+				{
+					"daily": 1.5,
+					"id": "core_2_Limestone_Block"
+				},
+				{
+					"daily": 44,
+					"id": "3093"
+				}
+			],
+			"takes": [
+        {
+					"amount": 1,
+          "description": "Bronze Ingot",
+					"id": "2114"
+				}
+      ]
+		},
+		{
+			"entities": [
+				{
+					"daily": 5,
+					"id": "core_2_Gooseberry"
+				},
+				{
+					"daily": 2,
+					"id": "core_2_Limestone_Block"
+				},
+				{
+					"daily": 50,
+					"id": "3093"
+				}
+			],
+			"takes": [
+        {
+					"amount": 1,
+          "description": "Iron Ingot",
+					"id": "147"
+				}
+      ]
+		},
+		{
+			"entities": [
+				{
+					"daily": 6,
+					"id": "core_2_Gooseberry"
+				},
+				{
+					"daily": 2,
+					"id": "core_2_Limestone_Block"
+				},
+				{
+					"daily": 60,
+					"id": "3093"
+				}
+			],
+			"takes": [
+        {
+					"amount": 1,
+          "description": "Silver Ingot",
+					"id": "159"
+				}
+      ]
+		},
+		{
+			"entities": [
+				{
+					"daily": 8,
+					"id": "core_2_Gooseberry"
+				},
+				{
+					"daily": 3,
+					"id": "core_2_Limestone_Block"
+				},
+				{
+					"daily": 70,
+					"id": "3093"
+				}
+			],
+			"takes": [
+        {
+					"amount": 1,
+          "description": "Steel Ingot",
+					"id": "149"
+				}
+      ]
+		},
+		{
+			"entities": [
+				{
+					"daily": 8,
+					"id": "core_2_Gooseberry"
+				},
+				{
+					"daily": 3,
+					"id": "core_2_Limestone_Block"
+				},
+				{
+					"daily": 75,
+					"id": "3093"
+				}
+			],
+			"takes": [
+        {
+					"amount": 1,
+          "description": "Gold Ingot",
+					"id": "161"
+				}
+      ]
+		}
+
+	],
+	"race": "-1",
+	"tier": 2,
+	"workers": [
+		1,
+		1
+	],
+	"allow_player": true,
+	"required_entities": [
+		{
+			"entities": ["16"],
+			"count": 1
+		},
+		{
+			"entities": ["core_2_Decorated_Stash"],
+			"count": 3
+		},
+		{
+			"component": "resting_place",
+			"count": 1
+		}
+	],
+	"min_area": 20,
+	"group": "traders"
+}
