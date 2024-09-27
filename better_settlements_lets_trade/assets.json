@@ -3,7 +3,7 @@
     "tilesheets": [
       {
         "name": "buildings",
-        "tiles": [ 9, 1 ],
+        "tiles": [ 9, 2 ],
         "file": "assets/buildings_new.png"
       }
     ]
