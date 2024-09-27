@@ -3,7 +3,7 @@
 	"description": "Expands building groups for better settlements mods. Adding traders and specialists groups. Essential for most better settlements mods. Made as separate mod to make it easier to crate compatilibity patches with other mods that also add new building groups.",
 	"author": "Decados",
 	"game_required": "1.0.0",
-	"icon": "S.png",
+	"icon": "BS_logo_small.png",
 	"mods_required": [
 		"core_2"
 	],
