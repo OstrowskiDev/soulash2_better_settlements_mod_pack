@@ -1,6 +1,14 @@
 [h1]Why Better Settlements mods?[/h1]
 
-I created those to give players more options of solving economic challenges, roleplaying their settlements, and removing some common pain points. While staying as vanilla as possible.
+I created those to give players more options of solving economic challenges, roleplaying their settlements, and removing some common pain points related to settlements. While staying as vanilla as possible.
+
+[h1]What exactly Better Settlements: Ah Fresh Meat! does?[/h1]
+It adds more options to meat industry: notably Butcher Shop and t3 Tavern upgrade: Roast. Butcher takes animals produced in ranches and farms and does what he does best. This includes production of larva and slugs related meat. Than you can put this meat to better use by upgrading your Taverns to T3 (build extension using building called: Tavern upgrade: Roast), that has roast recipe, meatloaf recipe and cooked meat recipe. Roast is changed by this mod to give 85 food, otherwise whole process would be pointless. Roast takes 2 meat and 1 sugar to produce. Meatloaf takes 2 meat of one type (normal, slugs, larva) and 1 herbs. Herbs can be provided by Elven Woods Traders, and sugar from Rasimi Traders from Better Settlements Lets Trade! mod, or by your satelite settlements if you prefer vanilla way.
+
+
+[h1]What exactly Better Settlements: New Building Groups mod does?[/h1]
+
+This mod adds new building groups: "traders" and "specialists". You will see those after pressing 'L' when you are inside one of your t2 or higher settlements. It is required by most of mods from Better Settlements series.
 
 [h1]What exactly Better Settlements: Smelters mod does?[/h1]
 
@@ -21,14 +29,13 @@ Tis one is pretty basic: adds two specialized smelter buildings. One only smelts
 [/list]
 
 [h1]Dependencies[/h1]
-
-This mod uses Better Settlements - New Building Groups framework to create additional "Specialists" building group. It is required for mod to work. Also I recommend moving this framework to the top of Better Settlements mods list in game mode manager, many other mods from this series rely on it.
+This mod uses Better Settlements - New Building Groups framework to create additional "Specialists" building group. It is required for mod to work. Also I suggest moving this framework to the top of Better Settlements mods list in game mode manager, many other mods from this series rely on it.
 
 [h1]How to install?[/h1]
 [list]
 [*]Subscribe to this mod.
 [*]Create new world and have fun.
-[*]Alternatively you can add this to your existing save. The guide on how to do that is here:. To all my knowledge it should work fine but [b]BACKUP YOUR SAVES BEFORE YOU DO THAT[/b] anyway, better save than sorry. 
+[*]Alternatively you can add this mod to your existing save. The guide on how to do that is [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3328087872]here[/url]. To all my knowledge it should work fine but [b]BACKUP YOUR SAVES BEFORE YOU DO THAT[/b] anyway, better save than sorry. 
 [/list]
 
 [h1]How to uninstall?[/h1]
