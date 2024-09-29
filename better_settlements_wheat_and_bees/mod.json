@@ -5,7 +5,7 @@
 	"icon": "BS_logo_small.png",
 	"mods_required": [
 		"core_2",
-		"better_settlements_new_building_groups"
+		"b3338916823"
 	],
 	"name": "Better Settlements: Wheat and Bees",
 	"overwrite": true,
