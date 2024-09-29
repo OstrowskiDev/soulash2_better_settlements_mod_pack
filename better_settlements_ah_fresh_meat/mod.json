@@ -1,12 +1,13 @@
 {
 	"author": "Decados",
 	"description": "Having piles of meat from all those farms and hunters? Now you can process it with T3 butcher shop in your settlements!",
-	"name": "Better Settlements: Ah! Fresh Meat!",
 	"game_required": "1.0.0",
 	"icon": "BS_logo_small.png",
 	"mods_required": [
 		"core_2"
 	],
+	"name": "Better Settlements: Ah! Fresh Meat!",
+	"steam_publish_id": 3340261656,
 	"thumbnail": "thumbnail.png",
 	"version": "0.1.0"
 }
