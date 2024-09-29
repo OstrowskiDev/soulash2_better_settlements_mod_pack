@@ -1,10 +1,24 @@
-[h1]Why better settlemetns mods?[/h1]
+[h1]Why Better Settlements mods?[/h1]
 
-I created those to give players more options of solving economic challenges, rolplaying their settlements, and removing some common pain points.
+I created those to give players more options of solving economic challenges, roleplaying their settlements, and removing some common pain points. While staying as vanilla as possible.
 
-[h1]What exactly Better Settlements: Smelters mod does.[/h1]
+[h1]What exactly Better Settlements: Smelters mod does?[/h1]
 
 Tis one is pretty basic: adds two specialized smelter buildings. One only smelts tin and copper to produce bronze ingots, second takes coal and iron to produce steel ingots. So you will not end up with ingots you don't want (copper/iron ingots). Those buildings are available in new tab "specialists".
+
+[h1]What exactly Better Settlements: Wheat And Bees does?[/h1]
+
+[list]
+[*]It adds more recipes to bakery and tavern, notably: adds barley wheat equivalent of recipes to bakery so now your towns that are relaying on it for food production doesn't feel like worse version of wheat ones. Wheat is still better as in vanilla though. 
+
+[*]Adds cheese and mushroom soup recipes to tavern. So now milk and orange mushrooms will be used for something.
+
+[*]Adds player T3 apiary building that does not have any biome/map resource requirements but is more resource heavy to build. It will give you not only honey but also bee wax that is required to build all those cool stuff in your settlements. 
+
+[*]Adds two specialized windmill buildings: they produce only barley/wheat flour so you can control what type of grain goes to your ranches and what goes towards flour production
+
+[*]Adds gingerbread recipe to bakery, so your newly produced honey form apiary will have additional usage. This works both with wheat and barley flour.
+[/list]
 
 [h1]Dependencies[/h1]
 
