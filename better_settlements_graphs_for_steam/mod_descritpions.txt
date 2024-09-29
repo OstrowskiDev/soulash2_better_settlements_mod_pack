@@ -1,0 +1,33 @@
+[h1]Why better settlemetns mods?[/h1]
+
+I created those to give players more options of solving economic challenges, rolplaying their settlements, and removing some common pain points.
+
+[h1]What exactly Better Settlements: Smelters mod does.[/h1]
+
+Tis one is pretty basic: adds two specialized smelter buildings. One only smelts tin and copper to produce bronze ingots, second takes coal and iron to produce steel ingots. So you will not end up with ingots you don't want (copper/iron ingots). Those buildings are available in new tab "specialists".
+
+[h1]Dependencies[/h1]
+
+This mod uses Better Settlements - New Building Groups framework to create additional "Specialists" building group. It is required for mod to work. Also I recommend moving this framework to the top of Better Settlements mods list in game mode manager, many other mods from this series rely on it.
+
+[h1]How to install?[/h1]
+[list]
+[*]Subscribe to this mod.
+[*]Create new world and have fun.
+[*]Alternatively you can add this to your existing save. The guide on how to do that is here:. To all my knowledge it should work fine but [b]BACKUP YOUR SAVES BEFORE YOU DO THAT[/b] anyway, better save than sorry. 
+[/list]
+
+[h1]How to uninstall?[/h1]
+Currently you [b]CAN'T[/b] uninstall any mod that was once installed without breaking your saves that were using it. But if you want to start new world without it just unsubscribe.
+
+[h1]My other mods:[/h1]
+[list]
+[*]Better Settlements: New Building Groups
+[*]Better Settlements: Wheat And Bees
+[*]Better Settlements: Lets Trade!
+[*]Better Settlements: Smelters
+[*]Better Settlements: Ah Fresh Meat!
+[*]Fields Of Gold
+[/list]
+
+[h1]Enjoy![/h1]
