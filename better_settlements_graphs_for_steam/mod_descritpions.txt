@@ -1,10 +1,27 @@
 [h1]Why Better Settlements mods?[/h1]
-
 I created those to give players more options of solving economic challenges, roleplaying their settlements, and removing some common pain points related to settlements. While staying as vanilla as possible.
 
-[h1]What exactly Better Settlements: Ah Fresh Meat! does?[/h1]
+[h1]What exactly Better Settlements: Ah! Fresh Meat! does?[/h1]
 It adds more options to meat industry: notably Butcher Shop and t3 Tavern upgrade: Roast. Butcher takes animals produced in ranches and farms and does what he does best. This includes production of larva and slugs related meat. Than you can put this meat to better use by upgrading your Taverns to T3 (build extension using building called: Tavern upgrade: Roast), that has roast recipe, meatloaf recipe and cooked meat recipe. Roast is changed by this mod to give 85 food, otherwise whole process would be pointless. Roast takes 2 meat and 1 sugar to produce. Meatloaf takes 2 meat of one type (normal, slugs, larva) and 1 herbs. Herbs can be provided by Elven Woods Traders, and sugar from Rasimi Traders from Better Settlements Lets Trade! mod, or by your satelite settlements if you prefer vanilla way.
 
+[h1]What exactly Better Settlements: Lets Trade! mod does?[/h1]
+The main idea behind this mod was to create alternative to satelite settlements - ones you build just to supply main city with specific goods needed for buildings to operate. It focuses mainly on trades related to food industry. I don't want to take vanilla pleasure of founding towns focused on industry (mithril/adamantine/gold/diamond and so on), so those you will need to build yourselves.
+So how this mod works? Id adds new group of buildings: "traders", and adds to it 15 buildings. There are 5 types of different 'trade routes' that you can create with those buildings, each with 3 different subtypes depending on what resource you want to sell and buy. Each trade route gives you 3 different resources that can be later used in other buildings in your settlement (view attached graph to see what building loops are connected to vanilla and what to other Better Settlements mods).
+What you can sell?
+[list]
+Gems - all gem types.
+Ingots - all ingots except for mithril and adamantine.
+Wood - only wood planks, and only more valuable than 7g. Wood worth less is unlikely to be produced in quantities that could sustain any meaningful trade route.
+[/list]
+What you can buy for sold goods?
+[list]
+Elven Wood Traders: flower pollen (apiary), blueberries (bakery), herbs (tavern upgrade: roast).
+Boreal Goods Traders: ground jelly (bat ranch), mush wood (slugs farm), orange mushrooms (tavern).
+Rasimi Traders: savory branch (spice seekers -> alchemists), swamp grass (huge slugs ranch), sugar (tavern).
+Human Traders: wheat grain (cow ranch, pig ranch, chicken ranch, windmill, tavern), straw (cow ranch), strawberries (bakery)
+Barley Hills Traders: barley (goat ranch, sheep ranch, pig ranch, chicken ranch, windmill, tavern).
+[/list]
+For better visual representation look at buildings production routes graph. It has all important connections added with Better Settlements mods. Though for readability I have not included some of vanilla connections. There is already lots of happening in this graph. Important change to vanilla is removal of pie recipes form Tavern and moving them to Bakery.
 
 [h1]What exactly Better Settlements: New Building Groups mod does?[/h1]
 
@@ -47,7 +64,7 @@ Currently you [b]CAN'T[/b] uninstall any mod that was once installed without bre
 [*]Better Settlements: Wheat And Bees
 [*]Better Settlements: Lets Trade!
 [*]Better Settlements: Smelters
-[*]Better Settlements: Ah Fresh Meat!
+[*]Better Settlements: Ah! Fresh Meat!
 [*]Fields Of Gold
 [/list]
 

@@ -1,0 +1,16 @@
+[h1]What exactly Better Settlements: Wheat And Bees does?[/h1]
+
+[list]
+[*]It adds more recipes to bakery and tavern, notably: adds barley wheat equivalent of recipes to bakery so now your towns that are relaying on it for food production doesn't feel like worse version of wheat ones. Wheat is still better as in vanilla though. 
+
+[*]Adds cheese and mushroom soup recipes to tavern. So now milk and orange mushrooms will be used for something.
+
+[*]Adds player T3 apiary building that does not have any biome/map resource requirements but is more resource heavy to build. It will give you not only honey but also bee wax that is required to build all those cool stuff in your settlements. 
+
+[*]Adds two specialized windmill buildings: they produce only barley/wheat flour so you can control what type of grain goes to your ranches and what goes towards flour production
+
+[*]Adds gingerbread recipe to bakery, so your newly produced honey form apiary will have additional usage. This works both with wheat and barley flour.
+[/list]
+
+[h1]Dependencies[/h1]
+This mod uses Better Settlements - New Building Groups framework to create additional "Specialists" building group. It is required for mod to work. Also I suggest moving this framework to the top of Better Settlements mods list in game mod manager, many other mods from this series rely on it.
