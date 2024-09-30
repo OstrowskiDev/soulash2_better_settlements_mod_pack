@@ -1,15 +1,15 @@
 {
 	"author": "Decados",
-	"description": "Adds apiary building and new production recipes to bakery and taverns.",
+	"description": "Adds apiary building, new production recipes to bakery and taverns, and two windmills specialized in barley/wheat processing.",
 	"game_required": "1.0.0",
 	"icon": "BS_logo_small.png",
 	"mods_required": [
 		"core_2",
-		"b3338916823"
+		"3338916823"
 	],
 	"name": "Better Settlements: Wheat and Bees",
 	"overwrite": true,
 	"steam_publish_id": 3340228438,
 	"thumbnail": "thumbnail.png",
-	"version": "0.1.0"
+	"version": "0.1.2"
 }
