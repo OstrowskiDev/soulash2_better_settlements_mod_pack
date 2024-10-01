@@ -1,3 +1,6 @@
+Framework for other Better Settlements mods. 
+Adds new building groups to game build menu: 'Traders' and 'Specialists'.
+
 [h1]What exactly Better Settlements: New Building Groups mod does?[/h1]
 
 This mod adds new building groups: "traders" and "specialists". You will see those after pressing 'L' when you are inside one of your t2 or higher settlements. It is required by most of mods from Better Settlements series.

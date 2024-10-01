@@ -1,12 +1,13 @@
 [h1]Why Better Settlements mods?[/h1]
-I created those to give players more options of solving economic challenges, roleplaying their settlements, and removing some common pain points related to settlements. While staying as vanilla as possible.
+I created those to give players more options of solving economic challenges, roleplaying their settlements, and removing some common pain points, while staying as vanilla as possible.
 
 [h1]How to install?[/h1]
 [list]
 [*]Subscribe to this mod.
 [*]Create new world and have fun.
-[*]Alternatively you can add this mod to your existing save. 
-The guide on how to do that is [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3328087872]here[/url]. To all my knowledge it should work fine but [b]BACKUP YOUR SAVES BEFORE YOU DO THAT[/b] anyway, better save than sorry. 
+[*]Alternatively you can add this mod to your existing save: 
+The guide on how to do that is [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3328087872]here[/url]. To all my knowledge it should work fine,
+but [b]BACKUP YOUR SAVES BEFORE YOU DO THAT[/b] anyway, better save than sorry. 
 [/list]
 
 [h1]How to uninstall?[/h1]
