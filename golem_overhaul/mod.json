@@ -7,7 +7,8 @@
 		"core_2"
 	],
 	"name": "Golem Overhaul",
-	"thumbnail": "thumbnail2.png",
 	"overwrite": true,
+	"steam_publish_id": 3340738225,
+	"thumbnail": "thumbnail2.png",
 	"version": "0.1.0"
 }
