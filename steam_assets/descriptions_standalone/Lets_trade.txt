@@ -1,0 +1,51 @@
+Adds caravan trade based buildings to player settlements. They simulate barter trade system and enable easy access to resources needed in other buildings without the need to micromanage trade routes.
+
+[h1]Why Better Settlements mods?[/h1]
+I created those to give players more options of solving economic challenges, roleplaying their settlements, and removing some common pain points, while staying as vanilla as possible.
+
+[h1]What exactly Better Settlements: Lets Trade! mod does?[/h1]
+[b]The main idea[/b] behind this mod was to create alternative to satelite settlements - ones you build just to supply main city with specific goods needed for buildings to operate. It focuses mainly on trades related to food industry. I don't want to take vanilla pleasure of founding towns focused on industry (mithril/adamantine/gold/diamond and so on), so those you will need to build yourselves.
+[b]So how this mod works?[/b] It adds new group of buildings: "traders", and adds to it 15 buildings. There are 5 types of different 'trade routes' that you can create with those buildings, each with 3 different subtypes depending on what resource you want to sell and buy. Each trade route gives you 3 different resources that can be later used in other buildings in your settlement (view attached graph to see what building loops are connected to vanilla and what to other Better Settlements mods).
+[b]What you can sell?[/b]
+[list]
+[*][b]Gems[/b] - all gem types.
+[*][b]Ingots[/b] - all ingots except for mithril and adamantine.
+[*][b]Wood[/b] - only wood planks, and only more valuable than 7g. Wood worth less is unlikely to be produced in quantities that could sustain any meaningful trade route.
+[/list]
+[b]What you can buy for sold goods?[/b]
+[list]
+[*][b]Elven Wood Traders:[/b] flower pollen (apiary), blueberries (bakery), herbs (tavern upgrade: roast).
+[*][b]Boreal Goods Traders:[/b] ground jelly (bat ranch), mush wood (slugs farm), orange mushrooms (tavern).
+[*][b]Rasimi Traders:[/b] savory branch (spice seekers -> alchemists), swamp grass (huge slugs ranch), sugar (tavern).
+[*][b]Human Traders:[/b] wheat grain (cow ranch, pig ranch, chicken ranch, windmill, tavern), straw (cow ranch), strawberries (bakery)
+[*][b]Barley Hills Traders:[/b] barley (goat ranch, sheep ranch, pig ranch, chicken ranch, windmill, tavern).
+[/list]
+
+[img]https://i.imgur.com/xUZvDK1.png[/img]
+
+[h1]Dependencies:[/h1]
+[b]Better Settlements New Building Groups:[/b] [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3338916823]install[/url] and move to top of Better Settlements series mods in game mod manager.
+
+[h1]How to install?[/h1]
+[list]
+[*]Subscribe to this mod.
+[*]Create new world and have fun.
+[*]Alternatively you can add this mod to your existing save: 
+The guide on how to do that is [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3328087872]here[/url]. To all my knowledge it should work fine,
+but [b]BACKUP YOUR SAVES BEFORE YOU DO THAT[/b] anyway, better save than sorry. 
+[/list]
+
+[h1]How to uninstall?[/h1]
+Currently you [b]CAN'T[/b] uninstall any mod that was once installed without breaking your saves that were using it. But if you want to start new world without it just unsubscribe.
+
+[h1]My other mods:[/h1]
+[list]
+[*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=3338916823]Better Settlements: New Building Groups[/url]
+[*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=3340228438]Better Settlements: Wheat And Bees[/url]
+[*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=3340267755]Better Settlements: Lets Trade![/url]
+[*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=3340247095]Better Settlements: Smelters[/url]
+[*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=3340261656]Better Settlements: Ah! Fresh Meat![/url]
+[*]Fields Of Gold
+[/list]
+
+[h1]Enjoy![/h1]
