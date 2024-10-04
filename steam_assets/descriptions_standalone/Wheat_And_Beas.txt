@@ -1,0 +1,48 @@
+Adds apiary building, new production recipes to bakery and taverns, and two windmills specialized in barley/wheat processing.
+
+[h1]Why Better Settlements mods?[/h1]
+I created those to give players more options of solving economic challenges, roleplaying their settlements, and removing some common pain points, while staying as vanilla as possible.
+
+[h1]What exactly Better Settlements: Wheat And Bees does?[/h1]
+[list]
+[*]It adds [b]more recipes to bakery and tavern[/b], notably: adds barley wheat equivalent of recipes to bakery so now your towns that are relaying on it for food production doesn't feel like worse version of wheat ones. Wheat is still better as in vanilla though. 
+
+[*]Adds [b]cheese and mushroom soup recipes[/b] to tavern. So now milk and orange mushrooms will be used for something.
+
+[*]Adds player T3 [b]apiary building[/b] that does not have any biome/map resource requirements but is more resource heavy to build. It will give you not only honey but also bee wax that is required to build all those cool stuff in your settlements. 
+
+[*]Adds [b]two specialized windmill buildings[/b]: they produce only barley/wheat flour so you can control what type of grain goes to your ranches and what goes towards flour production.
+
+[*]Adds [b]gingerbread recipe[/b] to bakery, so your newly produced honey form apiary will have additional usage. This works both with wheat and barley flour.
+[/list]
+
+
+[b]How Whaet And Bees relates to vanilla and other Better Settlement mods?[/b]
+[img]https://i.imgur.com/xUZvDK1.png[/img]
+
+[h1]Dependencies[/h1]
+[b]Better Settlements New Building Groups[/b]: [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3338916823]install[/url] and move to top of Better Settlements series mods in game mod manager.
+
+[h1]How to install?[/h1]
+[list]
+[*]Subscribe to this mod.
+[*]Create new world and have fun.
+[*]Alternatively you can add this mod to your existing save: 
+The guide on how to do that is [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3328087872]here[/url]. To all my knowledge it should work fine,
+but [b]BACKUP YOUR SAVES BEFORE YOU DO THAT[/b] anyway, better save than sorry. 
+[/list]
+
+[h1]How to uninstall?[/h1]
+Currently you [b]CAN'T[/b] uninstall any mod that was once installed without breaking your saves that were using it. But if you want to start new world without it just unsubscribe.
+
+[h1]My other mods:[/h1]
+[list]
+[*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=3338916823]Better Settlements: New Building Groups[/url]
+[*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=3340228438]Better Settlements: Wheat And Bees[/url]
+[*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=3340267755]Better Settlements: Lets Trade![/url]
+[*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=3340247095]Better Settlements: Smelters[/url]
+[*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=3340261656]Better Settlements: Ah! Fresh Meat![/url]
+[*]Fields Of Gold
+[/list]
+
+[h1]Enjoy![/h1]

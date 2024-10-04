@@ -1,0 +1,34 @@
+Expands and improves vanilla smelter buildings.
+
+[h1]Why Better Settlements mods?[/h1]
+I created those to give players more options of solving economic challenges, roleplaying their settlements, and removing some common pain points, while staying as vanilla as possible.
+
+[h1]What exactly Better Settlements: Smelters mod does?[/h1]
+This one is pretty basic: [b]adds two specialized smelter buildings[/b]. One only smelts tin and copper to produce bronze ingots, second takes coal and iron to produce steel ingots. So you will not end up with ingots you don't want (copper/iron ingots). Those buildings are available in new tab "specialists". This mod also enhances production of vanilla smelter, so you should be able to smelt all ore that is produced.
+
+[h1]Dependencies[/h1]
+[b]Better Settlements New Building Groups[/b]: [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3338916823]install[/url] and move to top of Better Settlements series mods in game mod manager.
+
+[h1]How to install?[/h1]
+[list]
+[*]Subscribe to this mod.
+[*]Create new world and have fun.
+[*]Alternatively you can add this mod to your existing save: 
+The guide on how to do that is [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3328087872]here[/url]. To all my knowledge it should work fine,
+but [b]BACKUP YOUR SAVES BEFORE YOU DO THAT[/b] anyway, better save than sorry. 
+[/list]
+
+[h1]How to uninstall?[/h1]
+Currently you [b]CAN'T[/b] uninstall any mod that was once installed without breaking your saves that were using it. But if you want to start new world without it just unsubscribe.
+
+[h1]My other mods:[/h1]
+[list]
+[*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=3338916823]Better Settlements: New Building Groups[/url]
+[*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=3340228438]Better Settlements: Wheat And Bees[/url]
+[*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=3340267755]Better Settlements: Lets Trade![/url]
+[*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=3340247095]Better Settlements: Smelters[/url]
+[*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=3340261656]Better Settlements: Ah! Fresh Meat![/url]
+[*]Fields Of Gold
+[/list]
+
+[h1]Enjoy![/h1]

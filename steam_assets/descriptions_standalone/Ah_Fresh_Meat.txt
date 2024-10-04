@@ -1,0 +1,40 @@
+Having piles of raw meat from all those farms and hunters? Don't know what to do with all those animals from ranches? Now you can process it all with t3 Butcher Shop and t3 Tavern Upgrade: Roast!
+
+[h1]Why Better Settlements mods?[/h1]
+I created those to give players more options of solving economic challenges, roleplaying their settlements, and removing some common pain points, while staying as vanilla as possible.
+
+[h1]What exactly Better Settlements: Ah! Fresh Meat! does?[/h1]
+It adds more options to meat industry: notably [b]Butcher Shop[/b] and t3 [b]Tavern upgrade: Roast[/b].
+[list]
+[*][b]Butcher Shop[/b] takes animals produced in ranches and farms and does what he does best. This includes production of larva and slugs related meat. 
+[*][b]Tavern upgrade Roast[/b] is t3 building that uses following recipes:  roast, meatloaf and cooked meat. 
+[*][b]Roast[/b] is changed by this mod to give 85 food, otherwise whole process would be pointless. It takes 2 meat and 1 sugar to produce. 
+[*][b]Meatloaf[/b] takes 2 meat of one type (normal, slugs, larva) and 1 herbs.
+[/list]
+
+[b]How Ah! Fresh Meat! relates to vanilla and other Better Settlement mods?[/b]
+[img]https://i.imgur.com/xUZvDK1.png[/img]
+
+[h1]How to install?[/h1]
+[list]
+[*]Subscribe to this mod.
+[*]Create new world and have fun.
+[*]Alternatively you can add this mod to your existing save: 
+The guide on how to do that is [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3328087872]here[/url]. To all my knowledge it should work fine,
+but [b]BACKUP YOUR SAVES BEFORE YOU DO THAT[/b] anyway, better save than sorry. 
+[/list]
+
+[h1]How to uninstall?[/h1]
+Currently you [b]CAN'T[/b] uninstall any mod that was once installed without breaking your saves that were using it. But if you want to start new world without it just unsubscribe.
+
+[h1]My other mods:[/h1]
+[list]
+[*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=3338916823]Better Settlements: New Building Groups[/url]
+[*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=3340228438]Better Settlements: Wheat And Bees[/url]
+[*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=3340267755]Better Settlements: Lets Trade![/url]
+[*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=3340247095]Better Settlements: Smelters[/url]
+[*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=3340261656]Better Settlements: Ah! Fresh Meat![/url]
+[*]Fields Of Gold
+[/list]
+
+[h1]Enjoy![/h1]
