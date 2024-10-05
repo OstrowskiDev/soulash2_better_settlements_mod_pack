@@ -1,0 +1,13 @@
+{
+	"author": "Decados",
+	"description": "Reduces time required to plant wheat, barley and flax.",
+	"name": "Fields of Gold",
+	"game_required": "1.0.0",
+	"icon": "S.png",
+	"mods_required": [
+		"core_2"
+	],
+	"thumbnail": "thumbnail2.png",
+	"overwrite": true,
+	"version": "0.1.0"
+}
