@@ -1,0 +1,15 @@
+{
+	"author": "Decados",
+	"description": "Adds new tier 4 buildings to player settlements.",
+	"game_required": "1.0.0",
+	"icon": "BS_logo_small.png",
+	"mods_required": [
+		"core_2",
+		"3338916823"
+	],
+	"name": "Better Settlements: Tier 4 Buildings",
+	"overwrite": true,
+	"steam_publish_id": 3340228438,
+	"thumbnail": "thumbnail_2.png",
+	"version": "0.1.0"
+}

@@ -1,0 +1,40 @@
+{
+	"enables": [
+		"core_2_cryomancy"
+	],
+	"id": "library",
+	"image": 161,
+	"name": "Library",
+	"occupation": "core_2_Reptilion_Water_Shaper",
+	"max": 1,
+	"produces": [
+		{
+			"entities": [
+				{
+					"daily": 0.2,
+					"id": "2006"
+				}
+			],
+			"takes": "craftable"
+		}
+	],
+	"race": "-1",
+	"tier": 3,
+	"workers": [
+		1,
+		6
+	],
+	"allow_player": true,
+	"required_entities": [
+		{
+			"entities": ["278", "1048", "2251"],
+			"count": 12
+		},
+		{
+			"component": "resting_place",
+			"count": 6
+		}
+	],
+	"min_area": 30,
+	"group": "producers"
+}
