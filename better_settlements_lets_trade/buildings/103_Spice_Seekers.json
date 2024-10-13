@@ -1,0 +1,37 @@
+{
+	"id": "103",
+	"image": 15,
+	"name": "Spice Seakers",
+	"occupation": "2340",
+	"produces": [
+		{
+			"entities": [
+				{
+					"daily": 2,
+					"id": "2427"
+				}
+			],
+			"takes": "craftable"
+		}
+	],
+	"race": "10",
+	"tier": 1,
+	"workers": [
+		1,
+		2
+	],
+	"max": 2,
+	"allow_player": true,
+	"required_entities": [
+		{
+			"entities": ["799"],
+			"count": 1
+		},
+		{
+			"component": "resting_place",
+			"count": 2
+		}
+	],
+	"min_area": 30,
+	"group": "food"
+}
