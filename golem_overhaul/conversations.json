@@ -1,0 +1,58 @@
+{
+	"conversations": [
+		{
+			"answer_negative": "Enemy detected... disengaging dialogue protocols.",
+			"answer_positive": "How can I serve you Master?",
+			"entities": [
+				"2893"
+			],
+			"id": "golems_begin",
+			"options": [
+				"golems_directions",
+				"golems_ask_trainer",
+				"golems_train",
+				"golems_exit"
+			],
+			"text": "",
+			"type": "begin_conversation"
+		},
+		{
+			"id": "golems_exit",
+			"text": "Say farewell.",
+			"type": "exit"
+		},
+		{
+			"id": "golems_back",
+			"text": "(back to main discussion)",
+			"type": "back_to_main"
+		},
+		{
+			"answer_negative": "Master, there is nothing I can teach you.",
+			"answer_positive": "What do you want to learn today Master?",
+			"id": "golems_train",
+			"options": [
+				"golems_back"
+			],
+			"text": "Ask for training.",
+			"type": "train"
+		},
+		{
+			"answer_positive": "Where do you want to go Master?",
+			"id": "golems_directions",
+			"options": [
+				"golems_back"
+			],
+			"text": "Ask for directions.",
+			"type": "directions"
+		},
+		{
+			"answer_positive": "Who are you looking for Master?",
+			"id": "golems_ask_trainer",
+			"options": [
+				"golems_back"
+			],
+			"text": "Ask for trainers in town.",
+			"type": "ask_trainers"
+		}
+	]
+}
